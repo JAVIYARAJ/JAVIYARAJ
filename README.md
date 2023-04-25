@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Task Tracking App](https://github.com/JAVIYARAJ/task-tracking-app)
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Android Development**
 
 - 💬 Ask me about **Android, Flutter, Kotlin, Java, Firebase**
 
