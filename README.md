@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/rjstudy2001" target="blank"><img src="https://img.shields.io/twitter/follow/rjstudy2001?logo=twitter&style=for-the-badge" alt="rjstudy2001" /></a> </p>
 
-- 🔭 I’m currently working on [Education portal App](https://github.com/JAVIYARAJ/StudentIO)
+- 🔭 I’m currently working on [Thread-Kotlin App and ChatX-Flutter]([https://github.com/JAVIYARAJ/StudentIO](https://github.com/JAVIYARAJ/ThreadApp))(https://github.com/JAVIYARAJ/chatX)
 
 - 🌱 I’m currently learning **Android Development**
 
