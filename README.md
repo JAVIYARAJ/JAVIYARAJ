@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Thread-Kotlin App and ChatX-Flutter App]
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Android Development and GraphQL**
 
 - 💬 Ask me about **Android, Flutter, Kotlin, Java, Firebase**
 
