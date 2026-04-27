@@ -171,6 +171,19 @@ The apps I'm most proud of aren't the most complex. They're the ones **users ope
 
 <br/>
 
+---
+
+*If you made it this far — let's not just connect, let's build something worth using.*
+
+**Whether it's a product idea, a technical challenge, or just a good conversation about mobile & AI —**
+**my inbox is open.** 🚀
+
+[![Let's Talk](https://img.shields.io/badge/Let's%20Talk-javiyaraj4@gmail.com-0175C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javiyaraj4@gmail.com)
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+<sub>⚡ Built with intent. Shipped with care. — Raj Javiya</sub>
 
 </div>
