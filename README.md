@@ -1,140 +1,176 @@
 <div align="center">
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="MasterHead" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D2A4A,100:0175C2&height=180&section=header&text=Raj%20Javiya&fontSize=54&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%"/>
+
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Product+Builder+%26+Flutter+Engineer;3%2B+Years+Cross-Platform+Mobile+Dev;Clean+Architecture+%7C+BLoC+%7C+GetX;Building+products+people+actually+use." alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-0175C2?style=flat-square)](https://personal-portfolio-git-v2-javiyaraj4-7353s-projects.vercel.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-javiyaraj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javiyaraj/)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-@rjstudy2001-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rjstudy2001)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-javiyaraj4@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:javiyaraj4@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=javiyaraj&label=Profile+Views&color=0175C2&style=flat-square"/>
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Raj Javiya</h1>
-<h3 align="center">📱 Flutter Developer | Cross-Platform Mobile Specialist | Clean Architecture Advocate</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=javiyaraj&label=Profile%20views&color=02569B&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/rjstudy2001">
-    <img src="https://img.shields.io/twitter/follow/rjstudy2001?logo=twitter&style=flat&color=1DA1F2" alt="Twitter Follow" />
-  </a>
-</p>
+<br/>
 
 ---
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="coding" width="360"/>
+## 🧠 About Me
 
-### 👨‍💻 About Me
+I don't just build apps — I build **products people want to use**.
 
-- 💼 **Flutter Developer** at **Esparkbiz**, Ahmedabad *(Sep 2023 – Present)*
-- 🏗️ Passionate about **Clean Architecture** & **Modular Design**
-- 🚀 3+ years building scalable cross-platform mobile apps with **Flutter & Dart**
-- 🌱 Currently exploring **GraphQL** and advanced **state management** patterns
-- 💬 Ask me about **Flutter, Dart, BLoC, GetX, Firebase, Supabase, REST APIs**
-- 📫 Reach me at **javiyaraj4@gmail.com**
-- 📍 Based in **Junagadh, Gujarat, India**
+3+ years shipping scalable, high-performance mobile apps for Android & iOS from a single Flutter codebase. I think like a product designer and build like an engineer — which means I challenge *what* to build before figuring out *how*.
 
----
+I run a **software development company** helping founders and startups go from idea to shipped product — fast, clean, and scalable.
 
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/javiyaraj/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/rjstudy2001" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/javiyaraj12" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.hackerrank.com/javiyaraj4" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://www.leetcode.com/javiyaraj" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/javiyaraj4" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/>
-  </a>
-</p>
+```yaml
+role:       Flutter Engineer & Product Builder
+company:    Esparkbiz, Ahmedabad (Sep 2023 – Present)
+building:   Own SaaS products with recurring revenue
+learning:   AI integrations + GraphQL + advanced state management
+location:   Junagadh, Gujarat, India
+contact:    javiyaraj4@gmail.com
+```
 
 ---
 
-### 🛠️ Tech Stack
+## ⚡ Focus Areas
 
-#### 📱 Mobile Development
-<p>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" title="Flutter"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" title="Dart"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" title="Android"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" title="Kotlin"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
-</p>
-
-#### 🔥 Backend & Database
-<p>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" title="Firebase"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40" title="Supabase"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" title="SQLite"/>
-</p>
-
-#### ⚙️ Tools & Workflow
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" title="Git"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40" title="GitHub"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" title="Figma"/>
-</p>
+```
+◈  Own Products     →  Building SaaS with recurring revenue (not just client work)
+◈  AI + Mobile      →  Applied AI integrations — not surface-level demos
+◈  Product UX       →  Apps that are intuitive, fast, and genuinely used every day
+◈  Architecture     →  Code that scales with the product, not against it
+```
 
 ---
 
-### 🏆 Skills & Expertise
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BLoC%2FCubit-764ABC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GetX-8B00FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hive-FF7A00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+**Mobile & Cross-Platform**
 
----
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio&theme=dark"/>
 
-### 🚀 Featured Projects
+**Backend, Database & Cloud**
 
-#### 🍔 Dyshez — Food Delivery App
-> A scalable cross-platform food delivery app built with **Flutter + Supabase**, featuring real-time order handling, a dynamic restaurant admin panel, and a **Rewards & Loyalty System** for improved user retention.
+<img src="https://skillicons.dev/icons?i=firebase,supabase,graphql,sqlite,postman&theme=dark"/>
 
-#### 📊 Smackdab — Sales Productivity Tool
-> Boosted team efficiency by **40%** and increased overall sales by **25%** via dynamic reusable UI components, a custom calendar module, and a responsive mobile/tablet layout.
+**Tools & Workflow**
 
-#### 🎯 Goals.com — CRM & Goal Tracking
-> A CRM app for goal tracking and incentive management that drove a **30% increase in sales performance**, with Firebase Cloud Messaging and optimized async/network operations.
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark"/>
+
+**Patterns & Expertise**
+
+![](https://img.shields.io/badge/Clean%20Architecture-161B22?style=flat-square&labelColor=FF6B6B)
+![](https://img.shields.io/badge/BLoC%20/%20Cubit-161B22?style=flat-square&labelColor=7B52AB)
+![](https://img.shields.io/badge/GetX-161B22?style=flat-square&labelColor=8B00FF)
+![](https://img.shields.io/badge/REST%20/%20GraphQL-161B22?style=flat-square&labelColor=009688)
+![](https://img.shields.io/badge/Firebase%20FCM-161B22?style=flat-square&labelColor=FFCA28)
+![](https://img.shields.io/badge/Offline--First-161B22?style=flat-square&labelColor=2EA043)
+![](https://img.shields.io/badge/Hive%20/%20SQLite-161B22?style=flat-square&labelColor=FF7A00)
+![](https://img.shields.io/badge/CI%20/%20CD-161B22?style=flat-square&labelColor=2088FF)
+![](https://img.shields.io/badge/Multi--Tenant%20Arch-161B22?style=flat-square&labelColor=0175C2)
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Flagship Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javiyaraj&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javiyaraj&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
+### 🍔 Dyshez
+**Food Delivery Platform**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javiyaraj&theme=tokyonight" alt="GitHub Streak" />
-</p>
+Flutter + Supabase food delivery app with real-time order handling, a dynamic restaurant admin panel, and a **Rewards & Loyalty System** for retention.
+
+Multi-role architecture: customer · restaurant · delivery agent — single codebase.
+
+`Flutter` · `Supabase` · `Real-time` · `Multi-role`
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 Smackdab
+**Sales Productivity Tool**
+
+Reusable component system, custom-built calendar module, and full tablet support. Drove **+40% team efficiency** and **+25% overall sales**.
+
+Built for zero UX compromise across phone and tablet.
+
+`Flutter` · `BLoC` · `Clean Arch` · `Tablet`
+
+</td>
+<td width="33%" valign="top">
+
+### 🎯 Goals.com
+**CRM & Goal Tracking**
+
+Incentive CRM that delivered **+30% sales performance** via push notifications, optimized async ops, and offline-first data layer with zero data loss.
+
+`Flutter` · `Firebase` · `FCM` · `Offline-First`
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <i>✨ "First, solve the problem. Then, write the code." – John Johnson ✨</i>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javiyaraj&theme=github_dark" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javiyaraj&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=javiyaraj&theme=github_dark" width="49%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=javiyaraj&theme=github-compact&bg_color=0D1117&color=58A6FF&line=0175C2&point=58A6FF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 💬 Philosophy
+
+> **"First, solve the problem. Then, write the code."**
+
+I don't over-engineer before there's a user. Clean, scalable architecture that can evolve with traction — not upfront complexity for its own sake.
+
+The apps I'm most proud of aren't the most complex. They're the ones **users open every single day.**
+
+---
+
+## 🤝 Open To
+
+| Type | Details |
+|---|---|
+| 🧑‍💻 Product Collaboration | Validated idea + need a technical co-founder or build partner |
+| 📱 Flutter Consulting | Architecture review · Performance audit · Greenfield build |
+| 🤖 AI × Mobile | Integrating LLMs and AI features into production mobile apps |
+| 💼 Interesting Opportunities | If it's meaningful, scalable, and worth building |
+
+<div align="center">
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-0175C2?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-git-v2-javiyaraj4-7353s-projects.vercel.app/)
+&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/javiyaraj4)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/javiyaraj)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
