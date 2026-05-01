@@ -163,7 +163,7 @@ The apps I'm most proud of aren't the most complex. They're the ones **users ope
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-0175C2?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-git-v2-javiyaraj4-7353s-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-0175C2?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-eta-orcin.vercel.app/)
 &nbsp;
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/javiyaraj4)
 &nbsp;
