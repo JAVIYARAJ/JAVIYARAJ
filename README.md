@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-0175C2?style=flat-square)]([https://personal-portfolio-git-v2-javiyaraj4-7353s-projects.vercel.app/](https://personal-portfolio-eta-orcin.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-0175C2?style=flat-square)](https://personal-portfolio-eta-orcin.vercel.app/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-javiyaraj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javiyaraj/)
 &nbsp;
